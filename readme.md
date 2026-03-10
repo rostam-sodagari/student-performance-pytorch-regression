@@ -1,5 +1,7 @@
 # Student Performance Prediction with PyTorch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gqFJ0BtYg13xcIS3e0zqaUaahwlwzgAi?usp=sharing)
+
 This project applies linear regression in PyTorch to predict student performance using the Kaggle **Student Performance** dataset. It includes data loading, preprocessing, train-test splitting, feature scaling, model training, evaluation, and result visualization.
 
 ## Features
